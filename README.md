@@ -2,6 +2,8 @@
 
 This project is a Q&A Chatbot application built using Streamlit and Langchain, leveraging the OpenAI GPT models.
 
+Chatbot deployed here: https://huggingface.co/spaces/HFEUG/LangchainChatbot
+
 ## Features
 
 - Interactive Q&A interface
