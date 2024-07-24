@@ -1,6 +1,6 @@
 # Q&A Chatbot
 
-This project is a Q&A Chatbot application built using Streamlit and Langchain, leveraging the OpenAI GPT models. T
+This project is a Q&A Chatbot application built using Streamlit and Langchain, leveraging the OpenAI GPT models.
 
 ## Features
 
@@ -25,7 +25,7 @@ streamlit
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/qa-chatbot.git
+    git clone https://github.com/Eug-Chua/Chatbot-Langchain.git
     cd qa-chatbot
     ```
 
